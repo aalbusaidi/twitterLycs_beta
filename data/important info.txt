@@ -1,0 +1,16 @@
+When using positve/negative sentiment lexicon please note that these words were adopted from Hu and Liu (2004)
+please cite when you use them.
+
+   Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
+       Proceedings of the ACM SIGKDD International Conference on Knowledge 
+       Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
+       Washington, USA, 
+
+Please verify the license at 
+https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+These words were copied from the below URLs and translated into Arabic using Google Translate without any manual translate.
+So, please take this into account when relying on Arabic Lexicons.
+
+https://ptrckprry.com/course/ssd/data/positive-words.txt
+https://ptrckprry.com/course/ssd/data/negative-words.txt
