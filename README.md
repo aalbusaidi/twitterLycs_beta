@@ -1,6 +1,14 @@
 # twitterLycs
 twitterLycs helps students and researchers download tweets and perform social network analysis and sentiment analysis for educational purposes.
 
+If you use twitterLycs for your analysis, please cite it using the following doi
+
+[![DOI](https://zenodo.org/badge/458511270.svg)](https://zenodo.org/badge/latestdoi/458511270)
+
+APA
+Al-Busaidi, A. (2022). Twitter analytics for social and behavioral science. doi:458511270
+
+
 When using positve/negative sentiment lexicon please note that these words were adopted from Hu and Liu (2004)
 please cite the below citation when integrating sentiment analysis in your work.
 
