@@ -1,6 +1,13 @@
 # twitterLycs
 twitterLycs helps students and researchers download tweets and perform social network analysis and sentiment analysis for educational purposes.
 
+# Description
+a Web-Based application ( I called it TwitterLycs or Twitter Analytics) for collecting data from social media, visual graph connections, performing sentiment analysis, downloading text, and social network analysis data for students to learn and for researchers to conduct research. 
+
+# Updates
+The app does not work now due to API changes by Twitter/ now X. Theapp needs a few modification in the API (upgrading API v1 to API v2).
+
+# Citation
 If you use twitterLycs for your analysis, please cite it using the following doi
 
 [![DOI](https://zenodo.org/badge/458511270.svg)](https://zenodo.org/badge/latestdoi/458511270)
