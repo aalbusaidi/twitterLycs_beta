@@ -23,4 +23,4 @@ These words were copied from the below URLs and translated into Arabic using Goo
 So, please take this into account when relying on Arabic sentiment. These words were downloaded from [Here+](https://ptrckprry.com/course/ssd/data/positive-words.txt) and [Here-](https://ptrckprry.com/course/ssd/data/negative-words.txt)
 
 
-![MainPage](https://github.com/aalbusaidi/twitterLycs_beta/blob/main/www/twitter.png)
+![MainPage](https://github.com/aalbusaidi/twitterLycs_beta/blob/main/www/twitterlycs.png)
