@@ -21,4 +21,6 @@ Please verify the license by [clicking here](https://www.cs.uic.edu/~liub/FBS/se
 
 These words were copied from the below URLs and translated into Arabic using Google Translate.
 So, please take this into account when relying on Arabic sentiment. These words were downloaded from [Here+](https://ptrckprry.com/course/ssd/data/positive-words.txt) and [Here-](https://ptrckprry.com/course/ssd/data/negative-words.txt)
+
+
 ![MainPage](https://drive.google.com/file/d/1V8jS0V72BmkNGiS9-CDuxMbJeWseBaMS/view?usp=sharing)
